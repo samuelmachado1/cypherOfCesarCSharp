@@ -41,6 +41,5 @@ Para este desafio você precisará :
 - .NET Core 2.0+
 - Visual Studio ou Visual Studio Code
 
-Para instalar o .NET Core e o Visual Studio, confira os links na seção de conteúdo.
-O Visual Studio Code é uma opção mais leve para programar, porém o Visual Studio 2019 é mais completo.
+
 
